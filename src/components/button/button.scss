@@ -1,0 +1,23 @@
+@import '../../scss/mixi';
+@import '../../scss/variable';
+.BtnWatchNow{
+    padding: 15px 20px;
+    outline: none;
+    border: none;
+    font-size: 18px;
+    font-weight: 600;
+    background: #F81700;
+    border-radius: 20px;
+    color : white;
+    margin-right: 20px;
+}
+.BtnWatchTrailer{
+    padding: 15px 25px;
+    outline: none;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    border-radius: 20px;
+}

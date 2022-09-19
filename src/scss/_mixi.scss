@@ -1,0 +1,17 @@
+@import './variable';
+@mixin  flex-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+@mixin ButtonWatchNow{
+    padding: 10px 15px;
+    color : $text-color;
+    background: $main-color;
+}
+@mixin  ButtonWatchTrailer{
+    padding:  10px 15px;
+    color : $text-color;
+    border: 1.5px solid white;
+    background: transparent;
+}
